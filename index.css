@@ -15,6 +15,12 @@ body{
     color: orange;
     font-family: fantasy;
 }
+
+/* .head-title{
+    justify-content: center;
+    align-items: center;
+} */
+
 ul{
     list-style: none;
     display:flex;
@@ -234,6 +240,9 @@ i{
     .bg-image {
         margin-top: 0px;
         height: auto;
+    }
+    .heading{
+        font-size: 3rem;
     }
     
     .wrapper {
