@@ -284,6 +284,9 @@ i{
         width: 105%;
     }
 
+    .heading{
+        font-size: 4rem;
+    }
     
     .bg-image {
         margin-top: 0;
